@@ -61,3 +61,4 @@ module Licensee
     end
   end
 end
+http://choosealicense.com
